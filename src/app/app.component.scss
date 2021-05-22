@@ -1,0 +1,11 @@
+.card {
+  background-size: auto 100%;
+
+  &:hover {
+    background-size: auto 110%;
+  }
+
+  button {
+    min-height: 2.5rem;
+  }
+}
